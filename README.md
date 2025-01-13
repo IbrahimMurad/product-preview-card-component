@@ -66,8 +66,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Responsive images](https://web.dev/learn/design/responsive-images) - This helped me to understand how to make images responsive.
+- [CSS em and rem explained](https://www.youtube.com/watch?v=_-aDOAMmDHI&t=538s) - This is an amazing video by **Kevin Powell** that helped me finally understand the difference between em and rem.
 
 
 ## Author
